@@ -6,6 +6,6 @@ file 'Client/bin/Release/**/publish/*.dll'
 client_script 'Client/bin/Release/**/publish/*.net.dll'
 server_script 'Server/bin/Release/**/publish/*.net.dll'
 
-author 'You'
+author 'Original: DevTestingPizza | Porter: Levy-Y'
 version '1.0.0'
-description 'Example Resource from C# Template'
+description 'A simple script that adds a transition between the loading screen and spawning in-game. Should work with most custom loading screens, as well as the stock FiveM loading screen. Port of https://github.com/DevTestingPizza/JoinTransition in c#'

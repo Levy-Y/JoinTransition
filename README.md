@@ -15,7 +15,7 @@ JoinTransition adds a smooth transition effect between the FiveM loading screen 
 
 ## 🚀 Getting Started
 
-1. Clone or download this repository into your FiveM server’s `resources` directory.
+1. Download, and unzip the latest release into your FiveM server’s `resources` directory.
 2. Ensure your `server.cfg` includes the resource:
 ```txt
 ensure JoinTransition
